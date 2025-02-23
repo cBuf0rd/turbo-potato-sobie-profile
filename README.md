@@ -8,6 +8,8 @@ DEV JIG PACKAGE
 
 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/33
 
+proof: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/candice.html
+
 2/ repo collab issue to branch to code to pull request to reviewed to resolve conflicts to merge
 
 PR 87 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/87/#pullrequestreview-2625214719
